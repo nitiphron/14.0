@@ -1,0 +1,51 @@
+{
+  "todos": [
+    {
+      "todo": "Memorize the fifty states and their capitals",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "todo": "Watch a drama movie",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "todo": "Contribute code or a monetary donation to an open-source software project",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "todo": "Solve a Rubik's cube",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "todo": "Learn CSS",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "todo": "Learn vite js",
+      "id": 9
+    },
+    {
+      "todo": "Learn Data structure",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "todo": "Homework 14",
+      "completed": true,
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "name": "andy"
+    },
+    {
+      "name": "bobby"
+    }
+  ]
+}
